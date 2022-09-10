@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## My Skills  
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
 <br>
 
 ## My GitHub Stats
