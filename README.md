@@ -12,13 +12,19 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## My Skills  
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
+
+</p>
+
 <br>
 
 ## My GitHub Stats
 
 <!--  GitHub Stats  -->
 <img src = "https://github-readme-stats.vercel.app/api?username=avinash-here&show_icons=true&theme=react&hide_border=true&bg_color=0F1000">
+
 
 
 <!--  Most Used Languages  -->
