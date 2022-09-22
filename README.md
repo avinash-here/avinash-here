@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My GitHub Stats
 
-<!--  GitHub Stats  -->
+<!--  GitHub Stats   -->
 <img src = "https://github-readme-stats.vercel.app/api?username=avinash-here&show_icons=true&theme=react&hide_border=true&bg_color=0F1000">
 
 
