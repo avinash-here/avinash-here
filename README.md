@@ -2,7 +2,7 @@
 ### 👀 I’m interested in Backend development.
 ### 🌱 I'm working as an Instructional Associate at Masai School.
 <!--#### 💞️ I’m looking to collaborate on ... -->
-### 📫 You can reach me on LinkedIn[LinkedIn](https://avinash-here.github.io/) or via my e-mail avinash.softer@gmail.com
+### 📫 You can reach me on [LinkedIn](https://avinash-here.github.io/) or via my e-mail avinash.softer@gmail.com
 
 <!---
 avinash-here/avinash-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
