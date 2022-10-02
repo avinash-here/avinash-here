@@ -39,3 +39,9 @@ You can click the Preview link to take a look at your changes.
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=avinash-here&theme=tokyonight&bg_color=0D1117">
 
 
+<!-- Profile Views -->
+
+<p> <img src="https://komarev.com/ghpvc/?username=avinash-here&label=Profile%20Views&color=000000&style=flat" alt="avinash-kumar" /> </p>
+<!-- <h2> <img src="https://komarev.com/ghpvc/?username=avinash-here&label=Profile%20Views&color=000000&style=flat" alt="avinash-kumar" /> </h2> -->
+
+
