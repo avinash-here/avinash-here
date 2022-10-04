@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Avinash Kumar.
-### <img src="https://cdn-icons-png.flaticon.com/512/186/186250.png" height="27" margin-top="40" /> I’m a Java developer from Purnea, Bihar.
+### <img src="https://cdn-icons-png.flaticon.com/512/186/186250.png" height="24" margin-top="40" /> I’m a Java developer from Purnea, Bihar.
 ### 👀 I’m interested in Backend development.
 ### 🌱 I'm working as an Instructional Associate at Masai School.
 <!--#### 💞️ I’m looking to collaborate on ... -->
