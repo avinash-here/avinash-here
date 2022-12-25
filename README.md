@@ -41,7 +41,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- Contribution Graph -->
-<img src ="https://activity-graph.herokuapp.com/graph?username=avinash-here&custom_title=Avinash%20Kumar%27s%20Contribution%20Graph&hide_border=true&theme=react-light">
+<!-- <img src ="https://activity-graph.herokuapp.com/graph?username=avinash-here&custom_title=Avinash%20Kumar%27s%20Contribution%20Graph&hide_border=true&theme=react-light"> -->
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avinash-here&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<img src = "https://github-readme-activity-graph.cyclic.app/graph?username=avinash-here&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=false" > 
+
+<!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!-- Profile Views -->
