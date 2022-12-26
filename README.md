@@ -15,13 +15,17 @@ You can click the Preview link to take a look at your changes.
 ## My Skills  
 <p>
   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="css3" width="80" height="60"/>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="java" width="60" height="60"/> 
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="css3" width="80" height="60"/> -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="java" width="60" height="60"/>
  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="60"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="60"/> -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="60" height="60"/> 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="60"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="60"/> -->
+<img src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="html" width="60" height="60"/>
+ 
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="60"/> -->
+<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="60" height="60"/>
 
 </p>
 
